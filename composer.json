@@ -1,0 +1,19 @@
+{
+    "name": "yaya/labhello",
+    "description": "pembuatan library sederhana",
+    "type": "module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hidayatul Ummi",
+            "email": "hidayatulummi82@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "yaya\\labhello\\": "src/"
+        }
+    },
+    "require": {}
+}
